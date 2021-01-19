@@ -414,6 +414,7 @@ body.burger-active {
 }
 
 .menu__size span {
+  outline: none;
   position: relative;
   z-index: 6;
   padding: 5px 10px;
